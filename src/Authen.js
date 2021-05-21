@@ -9,8 +9,8 @@ require('firebase/auth');
 
 
 var firebaseConfig = {
-   apiKey: "AIzaSyDdyH1RD9Ts6DlMBPhj5JBe7gy201ogLWg",
-   authDomain: "fir-login-9f348.firebaseapp.com",
+   apiKey: "API key Removed for security perpose",
+   authDomain: " ",
    databaseURL: "https://fir-login-9f348-default-rtdb.firebaseio.com",
    projectId: "fir-login-9f348",
    storageBucket: "fir-login-9f348.appspot.com",
